@@ -1,0 +1,26 @@
+{
+  "name": "lab11-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caps.js",
+  "scripts": {
+    "start": "node caps.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maram-997/lab11-events.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maram-997/lab11-events/issues"
+  },
+  "homepage": "https://github.com/Maram-997/lab11-events#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "jest": "^27.1.0",
+    "supertest": "^6.1.6"
+  }
+}
